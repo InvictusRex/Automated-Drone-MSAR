@@ -1,2 +1,2 @@
-# Automated-Drone-MSAR
-Laying the groundwork for Automated Drone Search And Rescue Operations
+# Autonomous-Drone-MSAR
+Laying the groundwork for Autonomous Drone Search And Rescue Operations
