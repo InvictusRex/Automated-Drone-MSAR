@@ -3,6 +3,8 @@
 This project implements an autonomous UAV-based system for real-time maritime Search and Rescue (SAR) operations using onboard computer vision models. The system is capable of responding to emergency alerts, autonomously navigating to GPS-tagged distress locations, performing aerial object detection to locate victims (specifically swimmers), and initiating a precision payload drop (life buoy), all while running on edge-compatible hardware.
 The core innovation lies in deploying highly efficient object detection models (YOLOv8n and YOLOv11n) optimized for inference on constrained platforms such as drones. These models were trained and evaluated on a curated and augmented version of the SeaDronesSee dataset. The detection pipeline is supported by GPS, IMU-based navigation, and temporal tracking for spatial confirmation, forming a closed-loop UAV SAR system.
 
+---
+
 ### ⚙️ System Architecture
 
 1. **Emergency Trigger Interface**  
